@@ -1,10 +1,10 @@
 # Lab_CNN
 
 # Tập dữ liệu (dataset)
-Gồm 1191 hình ảnh.
-Chia 80% để train, 20% để test
-X_train có 952
-X_test có 239
+Gồm 1191 hình ảnh\
+Chia 80% để train, 20% để test\
+	X_train có 952\
+	X_test có 239
 
 ## Kết quả quá trình train tập dữ liệu
 ![accuracy](https://user-images.githubusercontent.com/63358031/112755798-82005800-900c-11eb-952f-d3d4cd4ff374.png)
